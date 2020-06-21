@@ -1,0 +1,12 @@
+name: fave-spots
+title:
+username:
+account: sandraxchen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2484450
+bundleId: 3298061
+url: https://sandraxchen.shinyapps.io/fave-spots/
+when: 1592739354.37268
+asMultiple: FALSE
+asStatic: FALSE
